@@ -13,3 +13,14 @@ body{
 .spinner-border{
   text-align: center;
 }
+.page-link{
+  color: black;
+  background-color: white;
+  font-size: 30px;
+
+}
+.modal-body{
+  text-decoration: underline;
+  background-color: pink;
+  font-size: 30px;
+}
